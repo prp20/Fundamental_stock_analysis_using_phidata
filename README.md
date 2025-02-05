@@ -15,7 +15,7 @@ This repository introduces an **LLM-Based Agentic Application** designed to simp
 - **Learn Without Fear**: Get accurate, real-time answers to your stock market questions without being bogged down by jargon or complex concepts.
 - **Stay Updated**: The integration of live data ensures you're always equipped with the latest insights.
 
-## prerequisites to run this application:
+## Prerequisites to run this application:
 - OpenAI API Key
 - GROQ API Key
 - Python 3.x installed
