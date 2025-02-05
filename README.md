@@ -32,5 +32,5 @@ This repository introduces an **LLM-Based Agentic Application** designed to simp
 
 Whether you're just starting your journey in the stock market or looking for a reliable assistant to clarify your doubts, this application is here to make learning simple and accessible.
 
-Happy learning! 🚀
+Happy Investing! 🚀
 
