@@ -21,7 +21,7 @@ This repository introduces an **LLM-Based Agentic Application** designed to simp
 - Python 3.x installed
 
 ## How to run this application?
-- Clone this repository.
+- Clone the repository
 - Create a python virtual environment <br>
   `python -m venv <env_name>`
 - Initialize the environment.
