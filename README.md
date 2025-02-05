@@ -30,7 +30,7 @@ This repository introduces an **LLM-Based Agentic Application** designed to simp
 - Once all the libraries are installed, start the application using the command: <br>
   `streamlit run front_end_ui.py`
 
-Whether you're just starting your journey in the stock market or looking for a reliable assistant to clarify your doubts, this application is here to make learning simple and accessible.
+Whether you're just starting your journey in the stock market or looking for a reliable assistant to clarify your doubts, this application is here to make investing simple and accessible.
 
 Happy Investing! 🚀
 
