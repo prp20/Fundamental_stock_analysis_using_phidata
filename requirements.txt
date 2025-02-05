@@ -1,0 +1,5 @@
+phidata
+yfinance
+beautifulsoup4
+streamlit
+duckduckgo-search
